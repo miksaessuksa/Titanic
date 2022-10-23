@@ -2,17 +2,17 @@
 
 Kaggle competition training
 
-Goal
+#### Goal
 Predict the survival of passenger.
 
-Description
+#### Description
 Show a simple example of an analysis of the Titanic dataset in Python.
 
 This notebook includes different steps:
 
-Data Explorative analysis
-Data Cleaning
-Data Preprocessing
-Features selection
-Supervised Machine learning Technique: CatBoost, RandomForestClassifier, SVM, GradientBoostingClassifier
-Predictions
+-> Data Explorative analysis
+-> Data Cleaning
+-> Data Preprocessing
+-> Features selection
+-> Supervised Machine learning Technique: CatBoost, RandomForestClassifier, SVM, GradientBoostingClassifier
+-> Predictions
